@@ -1,10 +1,18 @@
-# nuxt-univ-starter
+# nuxt-univ-github-action
+
+develop-github\nuxt-github-action\nuxt-univ-github-action
+
+### アプリケーションの概要
+
+1.Github Action により自動で GitHub Pages へデプロイする。
+
+### nuxt-univ-starter(clone)
 
 develop-github\nuxt(node12.18.0)\nuxt-start  
 node:v12.18.0  
 npm v6.14.4
 
-### アプリケーションの概要
+### アプリケーションの初期設定
 
 スターターテンプレート nuxt.config.js setting  
 1.pug  
